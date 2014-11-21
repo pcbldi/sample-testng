@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
 
 // if an email is already registered with MiCar
-public class EmailAddressAlreadyRegisteredAjax {
+public class EmailAddressAlreadyRegisteredAjaxTest {
   @Test
   public void f() {
 	  

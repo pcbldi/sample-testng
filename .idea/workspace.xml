@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b8dd4a-cd56-4fc1-8159-57bf591c418c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Config.java" afterPath="$PROJECT_DIR$/src/test/java/Config.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjax.java" afterPath="$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjaxTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/EmailAddressInvalidInput.java" afterPath="$PROJECT_DIR$/src/test/java/EmailAddressInvalidInputTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/EmailAddressRequired.java" afterPath="$PROJECT_DIR$/src/test/java/EmailAddressRequiredTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/PasswordFieldRequired.java" afterPath="$PROJECT_DIR$/src/test/java/PasswordFieldRequiredTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testNG.EmailAddressAlreadyRegisteredAjax.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testNG.EmailAddressAlreadyRegisteredAjax.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testNG.EmailAddressInvalidInput.xml" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testNG.EmailAddressInvalidInput.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" afterPath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/index.html" afterPath="$PROJECT_DIR$/test-output/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" afterPath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" afterPath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="micar.iws" />
@@ -67,10 +83,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="EmailAddressAlreadyRegisteredAjax.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjax.java">
+      <file leaf-file-name="EmailAddressAlreadyRegisteredAjaxTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjaxTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="73" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+            <state line="19" column="73" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,8 +94,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmailAddressInvalidInput.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressInvalidInput.java">
+      <file leaf-file-name="EmailAddressInvalidInputTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressInvalidInputTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
@@ -114,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmailAddressRequired.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequired.java">
+      <file leaf-file-name="EmailAddressRequiredTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequiredTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="9" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -141,10 +157,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PasswordFieldRequired.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PasswordFieldRequired.java">
+      <file leaf-file-name="PasswordFieldRequiredTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PasswordFieldRequiredTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577">
+            <state line="8" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2357019" vertical-offset="0" max-vertical-offset="577">
               <folding />
             </state>
           </provider>
@@ -171,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/test/java/FirstNameRequired.java" />
         <option value="$PROJECT_DIR$/src/test/java/FirstNameRequiredTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PasswordFieldRequired.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PasswordFieldRequiredTest.java" />
       </list>
     </option>
   </component>
@@ -234,6 +251,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="micar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="micar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="micar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="micar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="micar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -551,17 +604,21 @@
       <workItem from="1416591508017" duration="240000" />
       <workItem from="1416591757663" duration="4044000" />
       <workItem from="1416596192357" duration="67000" />
-      <workItem from="1416596261458" duration="308000" />
+      <workItem from="1416596261458" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="Moved test cases to default package&#10;">
       <created>1416596553674</created>
       <updated>1416596553674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Moved config to default package.">
+      <created>1416596582913</created>
+      <updated>1416596582913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4659000" />
+    <option name="totallyTimeSpent" value="6038000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
@@ -573,6 +630,7 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven-2 Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -580,7 +638,7 @@
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24946696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -592,7 +650,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -609,7 +666,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Moved test cases to default package&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved test cases to default package&#10;" />
+    <MESSAGE value="Moved config to default package." />
+    <MESSAGE value="Moved config to default package.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved config to default package.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -619,7 +678,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjax.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="38" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="561">
           <folding>
@@ -642,14 +701,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequired.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequiredTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="32" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjax.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="13" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="561">
           <folding>
@@ -672,14 +731,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequired.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequiredTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="32" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjax.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="8" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="510">
           <folding>
@@ -716,25 +775,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjax.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressAlreadyRegisteredAjaxTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="73" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+        <state line="19" column="73" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressInvalidInput.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressInvalidInputTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequired.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/EmailAddressRequiredTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+        <state line="9" column="0" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
           <folding />
         </state>
       </provider>
@@ -753,9 +812,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PasswordFieldRequired.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PasswordFieldRequiredTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577">
+        <state line="8" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.2357019" vertical-offset="0" max-vertical-offset="577">
           <folding />
         </state>
       </provider>

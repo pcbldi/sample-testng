@@ -1,6 +1,6 @@
 import org.testng.annotations.Test;
 
-public class PasswordFieldRequired {
+public class PasswordFieldRequiredTest {
   @Test
   public void f() {
 	  

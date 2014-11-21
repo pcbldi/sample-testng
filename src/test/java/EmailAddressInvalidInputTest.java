@@ -5,7 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class EmailAddressInvalidInput {
+public class EmailAddressInvalidInputTest {
   @Test
   public void f() {
 	  WebDriver driver = new FirefoxDriver();
