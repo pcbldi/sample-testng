@@ -1,4 +1,3 @@
-package test.java;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -11,7 +10,7 @@ public class EmailAddressInvalidInput {
   public void f() {
 	  WebDriver driver = new FirefoxDriver();
 		driver.manage().window().maximize();
-		driver.get(com.micar.config.Config.APP_URL);
+		driver.get(Config.APP_URL);
 		//driver.findElement(By.id("email")).sendKeys("email[]");
 		String email[] = {"sd@jh","sgfdghs.com","jan@inte","32745367","dhsfshdf","@.com","cm.@sdfs","rediff.gamil.@com"};
 		for(int i = 0 ; i < email.length ; i++){

@@ -1,4 +1,3 @@
-package test.java;
 
 
 
@@ -13,7 +12,7 @@ public class FirstNameRequiredTest {
   public void f() {
 	  WebDriver driver = new FirefoxDriver();
 		driver.manage().window().maximize();
-		driver.get(com.micar.config.Config.APP_URL);
+		driver.get(Config.APP_URL);
 		driver.findElement(By.id("firstName")).sendKeys("");
 		driver.findElement(By.id("registerMember")).click();
 		System.out.println( driver.findElement(By.xpath(".//*[@id='accountCreationForm']/fieldset/div[2]/div[1]/div[1]/div/div/div/div[2]")).getText());

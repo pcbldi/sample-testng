@@ -1,8 +1,11 @@
-package test.java;
-
-import com.micar.config.Config;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.By;
 
 // if an email is already registered with MiCar
 public class EmailAddressAlreadyRegisteredAjax {
